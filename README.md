@@ -1,4 +1,4 @@
-# Water Potability Prediction with DVC
+# Water Potability Prediction using DVC
 
 This project aims to predict the potability of water using a machine learning model integrated with DVC (Data Version Control) for managing datasets, experiments, and pipelines.
 
