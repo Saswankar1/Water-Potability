@@ -12,7 +12,7 @@ This project aims to predict the potability of water using a machine learning mo
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repo:
    ```bash
    git clone https://github.com/Saswankar1/Water-potability-DVC.git
    ```
